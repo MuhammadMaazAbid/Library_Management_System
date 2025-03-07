@@ -1,0 +1,53 @@
+                     Mystery/Thriller
+
+
+Book Title: The Girl with the Dragon Tattoo
+Author: Stieg Larsson
+Rating: 4.3/5
+Description: A journalist and a hacker unravel a family’s dark secrets.
+----------------------------------------
+Book Title: Gone Girl
+Author: Gillian Flynn
+Rating: 4.1/5
+Description: A suspenseful tale of a woman's mysterious disappearance and the media circus around it.
+----------------------------------------
+Book Title: Big Little Lies
+Author: Liane Moriarty
+Rating: 4.2/5
+Description: A story of suburban secrets and a murder investigation.
+----------------------------------------
+Book Title: The Silent Patient
+Author: Alex Michaelides
+Rating: 4.2/5
+Description: A psychotherapist tries to unravel why a woman stopped speaking after committing murder.
+----------------------------------------
+Book Title: The Da Vinci Code
+Author: Dan Brown
+Rating: 4.0/5
+Description: A symbologist uncovers a series of secrets hidden within religious artifacts.
+----------------------------------------
+Book Title: Sharp Objects
+Author: Gillian Flynn
+Rating: 4.1/5
+Description: A journalist returns to her hometown to investigate a series of brutal murders.
+----------------------------------------
+Book Title: In the Woods
+Author: Tana French
+Rating: 4.0/5
+Description: A detective is drawn into a haunting case connected to his own past.
+----------------------------------------
+Book Title: The Woman in the Window
+Author: A.J. Finn
+Rating: 4.0/5
+Description: A recluse believes she has witnessed a murder through her window.
+----------------------------------------
+Book Title: Before I Go to Sleep
+Author: S.J. Watson
+Rating: 4.1/5
+Description: A woman with amnesia pieces together her life with alarming revelations.
+----------------------------------------
+Book Title: The Couple Next Door
+Author: Shari Lapena
+Rating: 3.9/5
+Description: A couple’s baby goes missing, and secrets unravel.
+----------------------------------------

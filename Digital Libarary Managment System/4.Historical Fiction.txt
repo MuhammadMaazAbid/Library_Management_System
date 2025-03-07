@@ -1,0 +1,53 @@
+                        Historical Fiction
+
+
+Book Title: The Nightingale
+Author: Kristin Hannah
+Rating: 4.6/5
+Description: The story of two sisters during the Nazi occupation of France.
+----------------------------------------
+Book Title: The Book Thief
+Author: Markus Zusak
+Rating: 4.7/5
+Description: A young girl finds solace in books during World War II, narrated by Death.
+----------------------------------------
+Book Title: All the Light We Cannot See
+Author: Anthony Doerr
+Rating: 4.5/5
+Description: A blind French girl and a German boy whose paths collide during World War II.
+----------------------------------------
+Book Title: A Gentleman in Moscow
+Author: Amor Towles
+Rating: 4.7/5
+Description: The life of a count under house arrest in a luxury hotel in Soviet Russia.
+----------------------------------------
+Book Title: The Alice Network
+Author: Kate Quinn
+Rating: 4.5/5
+Description: Two women’s lives intersect as they unravel a post-WWI espionage mystery.
+----------------------------------------
+Book Title: The Paris Library
+Author: Janet Skeslien Charles
+Rating: 4.4/5
+Description: A tale of courage and friendship in Nazi-occupied Paris.
+----------------------------------------
+Book Title: Pachinko
+Author: Min Jin Lee
+Rating: 4.4/5
+Description: A sweeping saga of a Korean family in Japan across generations.
+----------------------------------------
+Book Title: Homegoing
+Author: Yaa Gyasi
+Rating: 4.5/5
+Description: A moving story of two sisters and their descendants across continents.
+----------------------------------------
+Book Title: The Light Between Oceans
+Author: M.L. Stedman
+Rating: 4.3/5
+Description: A couple faces a moral dilemma after finding a baby in a boat.
+----------------------------------------
+Book Title: Cilka’s Journey
+Author: Heather Morris
+Rating: 4.4/5
+Description: A poignant tale of survival and resilience during WWII.
+----------------------------------------

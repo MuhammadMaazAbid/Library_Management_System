@@ -1,0 +1,53 @@
+                Fantacy
+
+Book Title: The Name of the Wind
+Author: Patrick Rothfuss
+Rating: 4.5/5
+Description: The story of Kvothe, a gifted young man who grows into a legend, blending magic, music, and mystery.
+----------------------------------------
+Book Title: The Way of Kings
+Author: Brandon Sanderson
+Rating: 4.8/5
+Description: An epic tale of war, betrayal, and destiny in the high-stakes world of Roshar.
+----------------------------------------
+Book Title: Mistborn: The Final Empire
+Author: Brandon Sanderson
+Rating: 4.7/5
+Description: A rebellion led by a gifted thief against an immortal tyrant with magical abilities.
+----------------------------------------
+Book Title: A Game of Thrones
+Author: George R.R. Martin
+Rating: 4.5/5
+Description: The first book in the A Song of Ice and Fire series, full of political intrigue and war.
+----------------------------------------
+Book Title: The Hobbit
+Author: J.R.R. Tolkien
+Rating: 4.7/5
+Description: A journey through Middle-earth as Bilbo Baggins seeks treasure guarded by a dragon.
+----------------------------------------
+Book Title: The Lies of Locke Lamora
+Author: Scott Lynch
+Rating: 4.6/5
+Description: The exploits of a clever conman in the city of Camorr.
+----------------------------------------
+Book Title: The Priory of the Orange Tree
+Author: Samantha Shannon
+Rating: 4.4/5
+Description: A standalone epic fantasy featuring dragons and courtly intrigue.
+----------------------------------------
+Book Title: Eragon
+Author: Christopher Paolini
+Rating: 4.3/5
+Description: A young farm boy discovers a dragon egg, igniting a tale of rebellion.
+----------------------------------------
+Book Title: The Black Prism
+Author: Brent Weeks
+Rating: 4.4/5
+Description: A story of magic, power, and sacrifice in a vividly imagined world.
+----------------------------------------
+Book Title: City of Stairs
+Author: Robert Jackson Bennett
+Rating: 4.2/5
+Description: A murder mystery set in a city filled with divine secrets.
+----------------------------------------
+

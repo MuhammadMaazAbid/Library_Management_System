@@ -1,0 +1,48 @@
+              Science Fiction
+
+Book Title: Dune
+Author: Frank Herbert
+Rating: 4.6/5
+Description: A richly detailed saga of politics, ecology, and prophecy on the desert planet Arrakis.
+----------------------------------------
+Book Title: Ender's Game
+Author: Orson Scott Card
+Rating: 4.5/5
+Description: A young boy is trained in war games to save humanity from alien invaders.
+----------------------------------------
+Book Title: Neuromancer
+Author: William Gibson
+Rating: 4.3/5
+Description: A seminal cyberpunk novel about a washed-up hacker hired for a major heist.
+----------------------------------------
+Book Title: The Left Hand of Darkness
+Author: Ursula K. Le Guin
+Rating: 4.4/5
+Description: Exploration of gender and politics on a distant, cold planet.
+----------------------------------------
+Book Title: Hyperion
+Author: Dan Simmons
+Rating: 4.5/5
+Description: A pilgrimage to the enigmatic Shrike in a universe of intricate storytelling.
+----------------------------------------
+Book Title: Snow Crash
+Author: Neal Stephenson
+Rating: 4.2/5
+Description: A satirical, action-packed cyberpunk story blending virtual reality with dystopia.
+----------------------------------------
+Book Title: Foundation
+Author: Isaac Asimov
+Rating: 4.4/5
+Description: The classic tale of the rise and fall of a galactic empire.
+----------------------------------------
+Book Title: The Martian
+Author: Andy Weir
+Rating: 4.7/5
+Description: A gripping survival story of an astronaut stranded on Mars.
+----------------------------------------
+Book Title: Altered Carbon
+Author: Richard K. Morgan
+Rating: 4.1/5
+Description: A gritty, noir-style mystery in a future where consciousness can be digitized.
+----------------------------------------
+

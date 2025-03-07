@@ -1,0 +1,53 @@
+                           Biography/Memoir
+
+
+Book Title: Becoming
+Author: Michelle Obama
+Rating: 4.6/5
+Description: The personal and inspiring journey of the former First Lady of the United States.
+----------------------------------------
+Book Title: Educated
+Author: Tara Westover
+Rating: 4.7/5
+Description: A memoir of resilience and self-education in the face of familial adversity.
+----------------------------------------
+Book Title: Born a Crime
+Author: Trevor Noah
+Rating: 4.8/5
+Description: A comedic and moving account of the comedian’s life under apartheid in South Africa.
+----------------------------------------
+Book Title: The Glass Castle
+Author: Jeannette Walls
+Rating: 4.6/5
+Description: A memoir of growing up in a dysfunctional but fascinating family.
+----------------------------------------
+Book Title: When Breath Becomes Air
+Author: Paul Kalanithi
+Rating: 4.7/5
+Description: A poignant reflection on life and death by a neurosurgeon diagnosed with cancer.
+----------------------------------------
+Book Title: I Am Malala
+Author: Malala Yousafzai
+Rating: 4.6/5
+Description: The inspiring story of the youngest Nobel laureate.
+----------------------------------------
+Book Title: Steve Jobs
+Author: Walter Isaacson
+Rating: 4.5/5
+Description: An in-depth look at the visionary behind Apple.
+----------------------------------------
+Book Title: Wild
+Author: Cheryl Strayed
+Rating: 4.4/5
+Description: A woman’s solo journey of self-discovery on the Pacific Crest Trail.
+----------------------------------------
+Book Title: Bossypants
+Author: Tina Fey
+Rating: 4.3/5
+Description: A humorous account of the comedian’s rise to fame.
+----------------------------------------
+Book Title: The Wright Brothers
+Author: David McCullough
+Rating: 4.4/5
+Description: The story of the inventors of powered flight.
+----------------------------------------
